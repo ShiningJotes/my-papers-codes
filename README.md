@@ -1,6 +1,7 @@
 # my-papers-codes
 已发表学术论文：
 [1]	Yang Meng, Ronghua Shang, Licheng Jiao, Wenya Zhang, Yijing Yuan, Shuyuan Yang. Feature selection based dual-graph sparse non-negative matrix factorization for local discriminative clustering. Neurocomputing, 2018, 290: 87-99.（中科院分区二区期刊，IF：3.241）
+
 [2]	Yang Meng, Ronghua Shang, Licheng Jiao, Wenya Zhang, Shuyuan Yang. Dual-graph regularized non-negative matrix factorization with sparse and orthogonal constraints. Engineering Applications of Artificial Intelligence, 2018, 69: 24-35.（中科院分区二区期刊，IF：2.819）
 [3]	Ronghua Shang, Yijing Yuan, Licheng Jiao, Yang Meng, Ghalamzan Amir Masoud. A self-paced learning algorithm for change detection in synthetic aperture radar images. Signal Processing, 2018, 142: 375-387.（中科院分区二区期刊，IF：3.470）
 [4]	Ronghua Shang, Chiyang Liu, Yang Meng, Licheng Jiao, Rustam Stolkin. Nonnegative matrix factorization with rank regularization and hard constraint. Neural Computation. 2017, 29, 2553-2579.（中科院分区三区期刊, IF：1.651）
